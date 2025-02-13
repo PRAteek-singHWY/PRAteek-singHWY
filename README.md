@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **REACT.js, NODE.js, NEXT.js**
 
-- 💬 Ask me about **JS,REACT.js**
+- 💬 Ask me about **JS,NODE.JS,REACT.js,TYPESCRIPT,TAILWIND,FIGMA**
 
 - 📫 How to reach me **prateek23022004@gmail.com**
 
