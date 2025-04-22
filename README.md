@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/prateek_swy" target="blank"><img src="https://img.shields.io/twitter/follow/prateek_swy?logo=twitter&style=for-the-badge" alt="prateek_swy" /></a> </p>
 
-- 🌱 current stack ** exploring WEB3 & TypeScript & NEXT.js  **
+- 🌱 current stack **exploring WEB3 & TypeScript & NEXT.js**
 
 - 💬 Ask me about **JS,NODE.JS,REACT.js,TYPESCRIPT,TAILWIND,FIGMA**
 
