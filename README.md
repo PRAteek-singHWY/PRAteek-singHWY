@@ -10,7 +10,7 @@
 
   <p>
     <a href="https://twitter.com/prateek_swy" target="blank"><img src="https://img.shields.io/twitter/follow/prateek_swy?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="prateek_swy" /></a>
-    <img src="https://komarev.com/ghpvc/?username=prateek-singhwy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="prateek-singhwy" />
+    <img src="https://komarev.com/ghpvc/?username=PRAteek-singHWY&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="prateek-singhwy" />
   </p>
 
   <p>
@@ -27,8 +27,8 @@
 I am a **Full-Stack Developer** and **Computer Science Student** (Scaler School of Technology & BITS Pilani). I specialize in building high-performance web applications using the MERN stack and Next.js, and I am currently deep-diving into **Generative AI, Vector Databases, and System Design**.
 
 - 🔭 I’m currently working on **DevQuerA (AI-Powered Q&A Platform)**
-- 🌱 I’m currently learning **Docker, Kubernetes & Advanced RAG Pipelines**
-- 🏆 **Achievements:** Postman Student Expert | Hacktoberfest 2024 Contributor
+- 🌱 I’m currently working on **Docker, RAG Pipelines**
+- 🏆 **Achievements:** Postman Student Expert | Hacktoberfest 2024 Contributor | GSSOC'24 Docker
 - ⚡ **Fun fact:** I love deep philosophical talks and solving complex DSA problems.
 
 ---
@@ -52,18 +52,18 @@ I am a **Full-Stack Developer** and **Computer Science Student** (Scaler School 
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=prateek-singhwy&theme=radical&no-frame=true&margin-w=15&row=1" alt="trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=PRAteek-singHWY&theme=radical&no-frame=true&margin-w=15&row=1" alt="trophy" />
   </a>
 </div>
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prateek-singhwy&show_icons=true&theme=radical&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prateek-singhwy&show_icons=true&theme=radical&layout=compact" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=PRAteek-singHWY&show_icons=true&theme=radical&count_private=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PRAteek-singHWY&show_icons=true&theme=radical&layout=compact" height="180" alt="languages graph"  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateek-singhwy&theme=radical" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=PRAteek-singHWY&theme=radical" alt="streak graph" />
 </div>
 
 ---
