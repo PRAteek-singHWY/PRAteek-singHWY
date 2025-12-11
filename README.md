@@ -1,13 +1,16 @@
 <div align="center">
  
-  
-
   <h3>
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3595F7&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Apps;Exploring+Next.js+16+%26+RAG;Open+Source+Contributor;500%2B+DSA+Problems+Solved" alt="Typing SVG" />
     </a>
   </h3>
 
+  <p>
+    <a href="https://prateekswys.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-FF5722?style=for-the-badge&logo=framer&logoColor=white" alt="Visit Portfolio" />
+    </a>
+  </p>
   <p>
     <a href="https://twitter.com/prateek_swy" target="blank"><img src="https://img.shields.io/twitter/follow/prateek_swy?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="prateek_swy" /></a>
     <img src="https://komarev.com/ghpvc/?username=PRAteek-singHWY&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="prateek-singhwy" />
@@ -45,8 +48,6 @@ I am a **Full-Stack Developer** and **Computer Science Student** (Scaler School 
 | **Tools** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 
 </div>
-
-
 
 ### 🧩 **Data Structures and Problem Solving**
 
