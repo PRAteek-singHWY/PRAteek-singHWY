@@ -28,7 +28,7 @@ I am a **Full-Stack Developer** and **Computer Science Student** (Scaler School 
 
 - 🔭 I’m currently working on **DevQuerA (AI-Powered Q&A Platform)**
 - 🌱 I’m currently working on **Docker, RAG Pipelines**
-- 🏆 **Achievements:** Postman Student Expert | Hacktoberfest 2024 Contributor | GSSOC'24 Docker
+- 🏆 **Achievements:** Postman Student Expert | Hacktoberfest 2024 Contributor | GSSOC'24 
 - ⚡ **Fun fact:** I love deep philosophical talks and solving complex DSA problems.
 
 ---
@@ -46,29 +46,9 @@ I am a **Full-Stack Developer** and **Computer Science Student** (Scaler School 
 
 </div>
 
----
 
-### 📊 **GitHub Stats**
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=PRAteek-singHWY&theme=radical&no-frame=true&margin-w=15&row=1" alt="trophy" />
-  </a>
-</div>
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PRAteek-singHWY&show_icons=true&theme=radical&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PRAteek-singHWY&show_icons=true&theme=radical&layout=compact" height="180" alt="languages graph"  />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=PRAteek-singHWY&theme=radical" alt="streak graph" />
-</div>
-
----
-
-### 🧩 **Competitive Programming**
+### 🧩 **Data Structures and Problem Solving**
 
 <div align="center"> 
   <a href="https://www.leetcode.com/prateeksinghwy" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
