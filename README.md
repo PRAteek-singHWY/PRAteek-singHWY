@@ -1,41 +1,92 @@
-<h1 align="center">Hi 👋, I'm PRAEEEK SINGH</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Prateek%20Singh&fontSize=80&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Engineer%20%7C%20Next.js%2016%20%26%20AI%20Enthusiast&descAlignY=60&descAlign=50" width="100%" alt="Header" />
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3382F7&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Apps;Exploring+Agentic+AI+Workflows;Shipped+DevQuerA+%26+WandR;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prateek-singhwy&label=Profile%20views&color=0e75b6&style=flat" alt="prateek-singhwy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prateek-singhwy" alt="prateek-singhwy" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/prateek_swy" target="blank"><img src="https://img.shields.io/twitter/follow/prateek_swy?logo=twitter&style=for-the-badge" alt="prateek_swy" /></a> </p>
-
-- 🌱 current stack **exploring WEB3 & TypeScript & NEXT.js**
-
-- 💬 Ask me about **JS,NODE.JS,REACT.js,TYPESCRIPT,TAILWIND,FIGMA**
-
-- 📫 How to reach me **prateek23022004@gmail.com**
-
-- ⚡ Fun fact **Deep Talks**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/prateek_swy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prateek_swy" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/prateekswyelv1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prateek singh" height="30" width="40" /></a>
-<a href="https://instagram.com/prateekswy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prateekswy" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/prateek_1swy_1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prateek_1swy_1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/prateek23022004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prateek23022004" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/_.prateek._.singh._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_.prateek._.singh._" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prateeksinghwy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prateeksinghwy" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/prateek2bo1l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prateek2bo1l" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://prateekswys.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-7023e4?style=for-the-badge&logo=react" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/prateekswyelv1">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:prateek23022004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prateek-singhwy&show_icons=true&locale=en&layout=compact" alt="prateek-singhwy" /></p>
+### 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prateek-singhwy&show_icons=true&locale=en" alt="prateek-singhwy" /></p>
+I'm a **Full-Stack Developer** and **Computer Science Student** (Scaler School of Technology & BITS Pilani). I specialize in building high-performance applications using the modern React ecosystem and AI integration.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prateek-singhwy&" alt="prateek-singhwy" /></p>
+- 🔭 I’m currently working on **DevQuerA** (A Next.js 16 AI-Powered Q&A Platform)
+- 👯 I’m an Open Source contributor to **AsyncAPI**
+- 🌱 I’m currently learning **System Design** & **Advanced RAG Pipelines**
+- 🏆 Achievements: **500+ DSA Solved** & **Hacktoberfest 2024** Contributor
+- ⚡ Fun fact: I can center a `div` on the first try.
 
+---
 
+### 🚀 Tech Stack
 
+<div align="center">
 
+| **Frontend** | **Backend & DB** | **DevOps & Tools** | **Languages** |
+|:---:|:---:|:---:|:---:|
+| ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) |
+| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) | ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) |
+| ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
+| ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) | ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) |
+| | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) | | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) |
+
+</div>
+
+---
+
+### 🛠️ Featured Projects
+
+| **Project** | **Description** | **Stack** |
+|:---:|:---|:---:|
+| **DevQuerA** | A scalable Q&A platform with AI-powered search & answers. | `Next.js 16` `MongoDB` `OpenAI` |
+| **WandR** | Cross-platform mobile app for travel sharing. | `React Native` `Expo` `Node.js` |
+| **RAG Tool** | Contextual search tool using Vector DBs to reduce LLM hallucinations. | `Python` `Pinecone` `LangChain` |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/prateek-singhwy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prateek-singhwy&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" alt="Stats" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/prateek-singhwy">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prateek-singhwy&theme=midnight-purple&hide_border=true" alt="Streak" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/prateek-singhwy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateek-singhwy&layout=compact&theme=midnight-purple&hide_border=true" alt="Languages" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  
+### 🤝 Connect with Me
+
+<a href="https://twitter.com/prateek_swy" target="blank"><img align="center" src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="prateek_swy" /></a>
+<a href="https://www.linkedin.com/in/prateekswyelv1" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="prateek singh" /></a>
+<a href="https://instagram.com/prateekswy" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="prateekswy" /></a>
+
+<br />
+
+<a href="https://leetcode.com/prateeksinghwy" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://codeforces.com/profile/_.prateek._.singh._" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-Compete-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+
+</div>
