@@ -1,6 +1,6 @@
 <div align="center">
  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Prateek%20Singh&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%26%20AI%20Enthusiast&descAlignY=51&descAlign=62" />
+  
 
   <h3>
     <a href="https://git.io/typing-svg">
