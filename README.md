@@ -32,7 +32,7 @@ I am a **Full-Stack Developer** and **Computer Science Student** (Scaler School 
 - 🔭 I’m currently working on **DevQuerA (AI-Powered Q&A Platform)**
 - 🌱 I’m currently working on **Docker, RAG Pipelines**
 - 🏆 **Achievements:** Postman Student Expert | Hacktoberfest 2024 Contributor | GSSOC'24 
-- ⚡ **Fun fact:** I love deep philosophical talks and solving complex DSA problems.
+- ⚡ **Fun fact:** I love deep philosophical talks and exploring Outer Space & Neurology.
 
 ---
 
