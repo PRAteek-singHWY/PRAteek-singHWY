@@ -26,7 +26,8 @@
 ---
 
 ### 🚀 **About Me**
-GSoC 2026 @OWASP
+** GSoC 2026 @OWASP **
+
 I am a **Full-Stack Developer** and **Computer Science Student** (Scaler School of Technology & BITS Pilani). I specialize in building high-performance web applications using the MERN stack and Next.js, and I am currently deep-diving into **Generative AI, Vector Databases, and System Design**.
 
 - 🔭 I’m currently working on **DevQuerA (AI-Powered Q&A Platform)**
